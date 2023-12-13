@@ -15,6 +15,10 @@
 - created Redux store with userSlice
 - Implemented Sign Out feature
 - update profile API call
+- Bug Fix: Sign Up user displayName and profile picture update
+- Bug Fix: if the user is not logged in Redirect / browse to Login Page
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcorded values to the constant file
 
 # features
 
